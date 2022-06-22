@@ -1,0 +1,417 @@
+.image-m-1 {
+	position: absolute;
+	top: -100px;
+	right: -200px;
+	width: 500px;
+	height: 500px;
+}
+
+.image-m-2 {
+	position: absolute;
+	bottom: -300px;
+	left: 670px;
+	width: 500px;
+	height: 500px;
+}
+
+.banner__slider {
+	overflow: hidden;
+}
+
+.banner__content h1 {
+	text-shadow: 1px 1px 1px rgba(22, 22, 22, 0.9);
+}
+
+.banner__content h3 {
+	color: #303030;
+}
+
+.banner__content h1 {
+	color: #303030;
+}
+
+.banner__content h2 {
+	color: #303030;
+}
+
+.banner__content p {
+	color: #303030;
+}
+
+.preloader {
+	background: rgb(255, 188, 20);
+}
+
+.defb {
+	color: #000;
+	width: 300px;
+	font-family: "Oswald", sans-serif;
+	text-transform: uppercase;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: 700;
+	height: 10vh;
+	position: relative;
+	border-radius: 4px;
+}
+
+.defl {
+	position: absolute;
+	border-radius: 4px;
+	left: 0px;
+	top: 6px;
+	z-index: 2;
+	width: 300px;
+	height: 8vh;
+	background-color: white;
+	transition: all 1s ease;
+}
+
+/* .defl:hover {
+  left: 26px;
+  top: 12px;
+} */
+
+.defr {
+	position: absolute;
+	border-radius: 4px;
+	left: 6px;
+	top: 12px;
+	z-index: 1;
+	width: 300px;
+	height: 8vh;
+	background-color: rgb(255, 188, 20);
+}
+
+.deft {
+	/* position: inherit; */
+	text-align: center;
+	white-space: nowrap;
+	color: #303030;
+	z-index: 998;
+	transition: all 0.4s ease;
+}
+
+.deft:hover {
+	color: rgb(255, 188, 20);
+	transform: scale(1.04);
+}
+
+.huila {
+	background-color: white;
+}
+
+.default-button:after {
+	background: rgb(255, 188, 20);
+}
+
+.default-button:after:hover {
+	border: #000 3px dashed;
+}
+
+.default-button {
+	color: rgb(255, 188, 20);
+}
+
+.iconGame {
+	max-height: 244px;
+}
+
+.scrollToTop i {
+	background: rgb(255, 188, 20);
+}
+
+.icofont-rounded-up {
+	background: rgb(255, 188, 20);
+}
+
+.logo-l {
+	max-height: 100px;
+}
+
+.jaqport__title-gametime ul li {
+	color: black;
+}
+
+.jaqport__title-gametime::before {
+	content: none;
+}
+
+.jaqport__title-gametime {
+	border-radius: 6px;
+}
+
+.banner__content h1 {
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.9);
+}
+
+.jaqport__title-gametime::before {
+	border-left: 10px solid rgb(255, 188, 20);
+}
+
+.jaqport__title {
+	background: rgb(236, 177, 26);
+}
+
+.about-section {
+	background: rgb(255, 255, 255);
+}
+
+.section-header h2 {
+	color: #000;
+	text-shadow: none;
+}
+
+.game__inner {
+	background-color: rgba(255, 230, 168, 0.5);
+}
+
+.dm {
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.footer-section
+	.footer-middle
+	.footer-middle-item-wrapper
+	.footer-middle-item-3
+	.fm-item-content
+	form
+	.form-group
+	input {
+	background: rgba(255, 255, 255, 0.5);
+}
+
+.game__content a:hover {
+	color: rgb(255, 192, 56);
+}
+
+.game__content a {
+	color: #000;
+}
+
+.game__content p {
+	color: #000;
+}
+
+.accordion-item {
+	background-color: rgba(218, 218, 218, 0.8);
+}
+
+.testimonial-item .testimonial-inner {
+	background-color: rgba(250, 249, 249);
+}
+
+.testimonial-item .testimonial-inner .testimonial-head .name-des h5 {
+	color: #303030;
+}
+
+.testimonial-item .testimonial-inner .testimonial-head .name-des p {
+	color: #616060;
+}
+
+.testimonial-body p {
+	color: #303030;
+}
+
+.footer-section
+	.footer-middle
+	.footer-middle-item-wrapper
+	.footer-middle-item-3
+	.fm-item-content
+	form
+	button {
+	background-color: transparent;
+}
+
+.heda {
+	color: rgb(247, 33, 33);
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+.about-item .about-item-thumb {
+	background-color: rgb(255, 188, 20);
+}
+
+.about-item-content h5 {
+	color: #000;
+}
+
+.about-item-content {
+	color: #000;
+}
+
+.about-content p {
+	color: #000;
+}
+
+.collection-section {
+	background-color: rgb(241, 241, 241);
+}
+
+.testimonial {
+	background-color: rgb(241, 241, 241);
+}
+
+.section-header p {
+	color: #000;
+}
+
+.sch h2 {
+	color: #000;
+}
+
+.sch p {
+	color: #000;
+	font-weight: 600;
+}
+
+.faq {
+	background-color: white;
+}
+
+.shd h2 {
+	color: #000;
+}
+
+.shd p {
+	color: #000;
+}
+
+.hss {
+	background-color: rgba(255, 188, 20);
+}
+
+.header-section.header-fixed {
+	background-color: rgba(250, 249, 249);
+}
+
+.faq .section-wrapper .accordion li .accordion-list .left .icon {
+	background-color: rgb(255, 188, 20);
+}
+
+.faq .section-wrapper .accordion li .accordion-list .right h6 {
+	color: #303030;
+}
+
+.faq .section-wrapper .accordion li .accordion-answer p {
+	color: #616060;
+}
+
+.jaqport__gamelist {
+	background-color: rgb(255, 188, 20);
+	font-weight: 600;
+	color: rgb(15, 15, 15);
+}
+
+.jaqport__gamelist-right h6 {
+	color: #151515;
+}
+
+.jaqport__title-title {
+	white-space: nowrap;
+}
+
+header {
+	z-index: 9999;
+}
+
+footer {
+	background-color: rgb(255, 188, 20);
+	color: #303030;
+	padding: 20px 0;
+	padding-bottom: 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+	gap: 10px;
+	font-weight: 500;
+}
+
+footer span {
+	text-align: center;
+}
+
+footer p {
+	font-weight: 700;
+	background-color: #fff;
+	text-align: center;
+	width: 100%;
+}
+
+@media screen and (max-width: 993px) {
+	.hsl {
+		flex-direction: column-reverse;
+	}
+	.jaqport__title-gametime ul li {
+		font-size: 0.85rem;
+		white-space: nowrap;
+	}
+	.jaqport__title-title {
+		display: flex;
+		justify-content: center;
+	}
+	.jaqport__title-gametime ul {
+		white-space: nowrap;
+		justify-content: center;
+		flex-wrap: nowrap;
+	}
+	.jaqport__title-gametime {
+		width: 100%;
+	}
+	.jaqport__left {
+		display: flex;
+		flex-direction: column;
+	}
+	.jql {
+		max-width: 40vw;
+		max-height: 10vh;
+		position: absolute;
+		top: 10px;
+		right: 100px;
+	}
+	.mobile-logo {
+		max-width: 90px;
+		max-height: 90px;
+	}
+	.jaqport__title {
+		display: flex;
+		justify-content: center;
+		width: 300px;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+}
+
+@media screen and (max-width: 856px) {
+	.jaqport__title-gametime ul li {
+		font-size: 2vw;
+	}
+	body h4 {
+		font-size: 1.1rem;
+	}
+	.tdv {
+		font-size: 0.85rem;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.jql {
+		right: 40px;
+	}
+	.jaqport__title-gametime ul li {
+		font-size: 3vw;
+	}
+	.container {
+		padding-inline: 4vw;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	.col-sm-6 {
+		flex: 0 0 auto;
+		width: 50%;
+	}
+}
